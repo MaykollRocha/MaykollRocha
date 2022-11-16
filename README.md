@@ -21,5 +21,12 @@
   <a href="https://www.linkedin.com/in/maykoll-rocha-a75529206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/MaykollRocha/MaykollRocha/blob/output/github-contribution-grid-snake.svg)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=MaykollRocha&theme=transparent)](https://github.com/MaykollRocha/MaykollRocha)
+ 
+ </div>
+ 
+ <div>
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=estudos_python&theme=transparent)](https://github.com/MaykollRocha/estudos_python)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=Atividades_Faculade&theme=transparent)](https://github.com/MaykollRocha/Atividades_Faculade)
+ 
 </div>
