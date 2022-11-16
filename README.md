@@ -1,12 +1,12 @@
 <p align="center">
  <h1 align="center">Maykoll Rocha</h1>
- <p align="center">🌱 Atualmente Estudando -> Python</p>
+ <p align="center">🌱 Atualmente Estudando Python</p>
 </p>
  
 <div align="center">
   <a href="https://github.com/MaykollRocha">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MaykollRocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykollRocha&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaykollRocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykollRocha&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 </div>
