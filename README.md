@@ -2,11 +2,10 @@
  <h1 align="center">Maykoll Rocha</h1>
  <p align="center">🌱 Atualmente Estudando Python</p>
 </p>
- 
 <div align="center">
   <a href="https://github.com/MaykollRocha">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MaykollRocha&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykollRocha&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=MaykollRocha&layout=compact&langs_count=7&theme=transparent&gradient=True"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykollRocha&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 </div>
@@ -24,9 +23,9 @@
  
  </div>
  
- <div>
- 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=estudos_python&theme=transparent)](https://github.com/MaykollRocha/estudos_python)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=Atividades_Faculade&theme=transparent)](https://github.com/MaykollRocha/Atividades_Faculade)
+ <div align="center">
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=estudos_python&theme=dark)](https://github.com/MaykollRocha/estudos_python)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=Atividades_Faculade&theme=dark)](https://github.com/MaykollRocha/Atividades_Faculade)
  
 </div>
