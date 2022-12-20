@@ -4,8 +4,8 @@
 </p>
 <div align="center">
   <a href="https://github.com/MaykollRocha">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=MaykollRocha&layout=compact&theme=radical&langs_count=7&bg_color=10.5,120b99,1c15a3,34313d"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykollRocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact&bg_color=10.5,120b99,1c15a3,34313d"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=MaykollRocha&layout=compact&theme=tokyonight&langs_count=7"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykollRocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 </div>
@@ -25,7 +25,7 @@
  
  <div align="center">
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=estudos_python&theme=dark&bg_color=10.5,120b99,1c15a3,34313d)](https://github.com/MaykollRocha/estudos_python)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=Atividades_Faculade&theme=dark&bg_color=10.5,120b99,1c15a3,34313d)](https://github.com/MaykollRocha/Atividades_Faculade)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=estudos_python&theme=tokyonight)](https://github.com/MaykollRocha/estudos_python)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=Atividades_Faculade&theme=tokyonight)](https://github.com/MaykollRocha/Atividades_Faculade)
  
 </div>
