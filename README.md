@@ -25,7 +25,7 @@
  
  <div align="center">
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=Calculadora_Binaria&theme=tokyonight)(https://github.com/MaykollRocha/Calculadora_Binaria)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=Calculadora_Binaria&theme=tokyonight)(https://github.com/MaykollRocha/Calculadora_Binaria)]
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=Atividades_Faculade&theme=tokyonight)](https://github.com/MaykollRocha/Atividades_Faculade)
  
 </div>
