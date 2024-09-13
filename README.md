@@ -1,6 +1,5 @@
 <p align="center">
  <h1 align="center">Maykoll Rocha</h1>
- <p align="center">🌱 Atualmente Estudando Python</p>
 </p>
 <div align="center">
   <a href="https://github.com/MaykollRocha">
