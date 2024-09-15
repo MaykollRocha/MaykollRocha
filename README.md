@@ -23,7 +23,7 @@
  
  <div align="center">
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=Jogo_da_cobrinha&theme=tokyonight)](https://github.com/MaykollRocha/Jogo_da_cobrinha)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=Portifolio&theme=tokyonight)]((https://github.com/MaykollRocha/Portifolio))
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=Atividades_Faculade&theme=tokyonight)](https://github.com/MaykollRocha/Atividades_Faculade)
  
 </div>
