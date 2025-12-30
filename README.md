@@ -27,3 +27,6 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaykollRocha&repo=Atividades_Faculade&theme=tokyonight)](https://github.com/MaykollRocha/Atividades_Faculade)
  
 </div>
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="maykoll-rocha-a75529206" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/maykoll-rocha-a75529206?trk=profile-badge">Maykoll Rocha</a></div>
+              
